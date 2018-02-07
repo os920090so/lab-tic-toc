@@ -1,0 +1,11 @@
+.banner {
+    background: white;
+    padding: 1rem;
+    color: #484848;
+}
+
+.banner .flex {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+}

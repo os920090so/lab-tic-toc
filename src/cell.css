@@ -1,0 +1,8 @@
+.cell{
+  width: 30%;
+  background: steelblue;
+  float: left;
+  margin: 1.66%;
+  text-align: center;
+  font-size: 3rem;
+}
