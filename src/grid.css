@@ -1,0 +1,8 @@
+.grid{
+  display: block;
+}
+.grid::after{
+  content: "";
+  display: block;
+  clear: both;
+}
