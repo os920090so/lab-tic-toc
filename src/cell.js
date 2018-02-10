@@ -19,7 +19,7 @@ export default class Cell extends Component {
 
     reset(){
       this.beclicked=false;
-      this.root.textContent='?';
+      this.root.textContent='　';
     }
 
     handleDomClick(){

@@ -10266,7 +10266,7 @@ var Cell = function (_Component) {
         key: 'reset',
         value: function reset() {
             this.beclicked = false;
-            this.root.textContent = '?';
+            this.root.textContent = '　';
         }
     }, {
         key: 'handleDomClick',
